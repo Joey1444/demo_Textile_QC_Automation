@@ -1,6 +1,6 @@
 # 纺织品检测数据自动化处理平台 (Demo)
 ## 👤 项目负责人：张启豪
-> **🔗 传送门：[Textile QC Automation - 在线演示](https://demo-knud.onrender.com)**
+> **🔗 平台传送门：[Textile QC Automation - 在线演示](https://demo-knud.onrender.com)**
 > 
 > *💡 温馨提示：由于部署在 Render 免费服务上，若系统处于休眠状态，首次加载可能需要 **15-20 秒** 唤醒环境，请耐心等待。*
 
@@ -28,9 +28,11 @@
 | **Strength** | 断裂强力 (cN) | 评估纤维耐拉伸物理强度的关键指标 |
 | **Elongation** | 断裂伸长率 (%) | 衡量纤维在拉断瞬间的弹性形变能力 |
 
-您可以将其下载到本地，通过在线演示地址运行展示：[🔗 点击进入在线演示地址](https://demo-knud.onrender.com)
+您可以将该演示数据"input_data"下载到本地，通过在线平台运行：[🔗 点击进入在线平台](https://demo-knud.onrender.com)
 
 ## 📺 4功能演示 (Demo Video)
-> **💡 操作提示**：您可以直接观看系统运行实录。
+> **💡 操作提示**：下方为在线平台运行的实时演示（GIF 自动加载）。
+> 
+![系统运行演示](./功能演示/DemoVideo-ezgif.com-video-to-gif-converter.gif)
 
 © 张启豪 - 作品集
